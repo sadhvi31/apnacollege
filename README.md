@@ -1,4 +1,4 @@
 # apnacollege
 this is my first repository
 <br>
-author - Sadhvi verma
+author - Sadhvi verma (bhardwaj)
